@@ -1,0 +1,27 @@
+
+
+.titulo-1{
+    color: #EC111A;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    text-decoration:underline;
+    text-transform:uppercase;
+
+}
+
+.titulo-2{
+    font-size: 2em;
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.parrafo-nosotros{
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
+}
+
+.card{
+    height: 700px;
+    width: 700px;
+}
